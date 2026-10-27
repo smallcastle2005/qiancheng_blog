@@ -1,0 +1,9 @@
+# Jekyll 本地构建产物（如果以后在本地预览）
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# 系统文件
+.DS_Store
+Thumbs.db

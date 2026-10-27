@@ -1,0 +1,27 @@
+title: 千诚 · 学习手记
+email: your-email@example.com
+description: >-
+  记录 RS / 计算机视觉、AIGC、游戏开发的学习过程。
+  以输出倒逼输入。
+baseurl: "/qiancheng_blog"
+url: "https://smallcastle2005.github.io"
+
+# GitHub Pages 内置主题，无需本地安装任何东西
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+# 中文环境
+lang: zh-CN
+
+# 侧边栏社交链接（改成你的）
+minima:
+  social_links:
+    github: smallcastle2005
+
+# 头像与页脚
+header_pages:
+  - about.md
+
+markdown: kramdown
